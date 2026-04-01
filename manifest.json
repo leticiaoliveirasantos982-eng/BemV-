@@ -1,0 +1,26 @@
+{
+  "name": "BemVô — Cuidando de quem sempre cuidou de você",
+  "short_name": "BemVô",
+  "description": "Aplicativo de assistência e acessibilidade para idosos",
+  "start_url": "./bemvo_final.html",
+  "display": "standalone",
+  "background_color": "#1535CC",
+  "theme_color": "#1535CC",
+  "orientation": "portrait",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/1535CC/00e5ff?text=BV",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/1535CC/00e5ff?text=BV",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "lifestyle", "accessibility"]
+}
